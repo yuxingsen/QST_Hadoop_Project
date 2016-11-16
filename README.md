@@ -31,6 +31,8 @@
 
 相关资料完成后，请发起pull request，里面标题填上自己的名字。
 
+数据在客户端本地磁盘 /home/hadoop/qst/ray/2015-1\* ， 在HDFS上也有 /user/hadoop/hadoop_project/*
+
 
 
 
